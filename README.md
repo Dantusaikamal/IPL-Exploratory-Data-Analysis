@@ -3,7 +3,8 @@
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
 
-A Jupyter Notebook which explains stats of Indian Premier League to find out the most successful teams, players and factors contributing win or loss of a team.
+### A Jupyter Notebook which explains stats of Indian Premier League to find out the most successful teams, players and factors contributing win or loss of a team.
+
 
 ## How to run:
 
